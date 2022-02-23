@@ -2,9 +2,9 @@
 
 Symfony with Amazon Web Services
 
-| Repository Branch              | cache       Version | Symfony Version | PHP Version     |
-|--------------------------------|---------------------|-----------------|-----------------|
-| [feature-elastic-beanstalk][1] | `4.x`               | `4.4.x`         | `7.4` or higher |
+| Repository Branch              | Symfony Version | PHP Version     |
+|--------------------------------|-----------------|-----------------|
+| [feature-elastic-beanstalk][1] | `5.x`           | `7.2` or higher |
 
 
 Read [AWS Docs](https://aws.amazon.com)
