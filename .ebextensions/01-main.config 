@@ -1,0 +1,3 @@
+commands:
+  command1:
+    command: php bin/console messenger:stop-workers >> /var/www/sqs_queue.log
