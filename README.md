@@ -17,4 +17,4 @@ Resources:
 [1]: https://github.com/habibun/aws/tree/feature-elastic-beanstalk
 
 ## License
-The code is licensed under the [MIT License](https://github.com/habibun/aws/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/aws/blob/main/LICENSE)
